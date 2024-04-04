@@ -9,3 +9,5 @@
 
 ## For Developers
 [Example plugin for adding settings because I cba writing documentation](https://github.com/Commander-Cat101/ContentSettings/tree/master/SettingsTemplate)
+
+may i obtain how to use the mod.
